@@ -1,0 +1,13 @@
+.Main  {
+    display: block;
+    text-align: center;
+}
+
+.Main img {
+    width: 20%;
+}
+
+.img {
+    width: 10em;
+    height: 15em;
+}

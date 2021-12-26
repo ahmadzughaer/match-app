@@ -1,0 +1,19 @@
+.Footer{
+    display: flex;
+    justify-content: center;
+    gap: 30em;
+}
+
+button {
+    background: transparent;
+}
+
+.fa-check-circle {
+    color: green;
+    font-size: 25px;
+}
+
+.fa-times-circle{
+    color: red;
+    font-size: 25px;
+}
